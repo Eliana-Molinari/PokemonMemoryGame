@@ -1,2 +1,2 @@
 # PokemonMemoryGame 🧩
-Memory Game based in pokemon characters, in progress 👩‍💻
+Memory Game based in pokemon characters with javascript, in progress 👩‍💻
